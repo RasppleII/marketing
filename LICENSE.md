@@ -1,27 +1,13 @@
-#Copyright and license for the assets in this archive:
+#Copyright and License
 
-##rasppleii.svg
+ * [The Raspple][] Copyright © 2016 T. Joseph Carter
+ * [Your Files Are Served][] Copyright © 2016 T. Joseph Carter
 
-Copyright © 2016  T. Joseph Carter, All rights reserved.
+The assets in this archive are licensed under a [Creative Commons
+Attribution-ShareAlike 4.0 International License][cc-by-sa 4.0] by their
+creators unless otherwise indicated.
 
-License terms for this image will follow.  The nutshell version is that the
-image will be available for modification under a free software license while
-trying to express that this exact image should be for use with/about the
-project for which it is created.
+[The Raspple]: rasppleii.svg
+[Your Files Are Served]: a2server.svg
+[cc-by-sa 4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 
-It's worth noting that this image depicts a logo (a "raspple") similar to the
-logo of the Raspberry Pi Foundation (RPF) [uploaded to Wikipedia][rpf-logo] on
-2012-Dec-10.  The raspple is not intended to represent or misrepresent RPF, and
-RPF neither supports nor endorses Raspple II to our knowledge.
-
-The resemblence, while not coincidental, is an original created on graph paper
-with pencil and calculator and light supplement of vector-editing tools,
-largely due to its' creators far greater familiarity with mathematics than
-with Inkscape.  :)
-
-If you're a law-ninja (or a debian-legal mailing list contributor), your input
-is welcome.  We're trying to do this right.  :)
-
-
-
-[rpf-logo]: https://en.wikipedia.org/wiki/File:Raspberry_Pi_Logo.svg

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!-- vim: set tabstop=2 shiftwidth=2 filetype=svg: -->
-<svg viewBox="0 0 1400 1400" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 1400 1400" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<title>The Raspple</title>
 	<path id="raspple-outline" d="m710,157 c-4,9 -6,19 -10,28 -5,-12 -41,-65 -54,-80 -92,-113.88 -334,-75.3 -408,-5.8 7,134.8 28,224.8 119,295.8 12,7 24,12 36,16 -12,10 -27,17 -40,27 -30,23 -53,53 -66,89 -7,21 -11,42 -13,64 -1,10 1,23 -2,32 -6,13 -15,19 -26,28 -7,6 -14,13 -21,20 -25,29 -42,66 -49,103 -8,43 -2,90 19,129 6,10 12,20 19,30 4,5 11,11 13,17 5,31 23,70 28,90 2,10 3,20 5,30 5,20 12,30 21,50 32,40 70,80 117,100 36,30 85,60 130,80 20,10 40,30 57,40 50,30 110,40 167,30 58,-10 100,-50 117,-70 19,-10 49,-20 63,-30 l51,-40 c97,-40 167,-120 167,-220 -120,-10 -199,-132 -201,-212 0,-115 61,-208 161,-215 -20,-63 -30,-125 -80,-156 -10,-5 -10,-11 -20,-15 10,-6 20,-6 30,-13 90,-85 130,-207 130,-304.6 -120,-76.9 -377,-85.2 ,-460,62.6 z"/>
 	<g id="leaf-green" fill="#64ba4d">
 		<path id="leaf-left-green" d="m462,62 c2,5 8,10 8,16 0,3 -2,5 -3,8 -20,-9 -38,-20 -60,-23 3,5 8,8 12,13 2,2 3,4 2,7 -2,6 -10,1 -14,0 -14,-4 -29,-9 -43,-9 3,4 14,13 10,19 -3,5 -13,0 -17,-1 -12,-3 -25,-5 -37,-5 -5,0 -11,1 -16,2 4,6 11,11 15,17 -6,1 -11,1 -17,1 -14,1 -28,1 -43,2 l89,37 c24,10 49,18 74,28 37,15 73,32 107,52 24,14 48,29 70,45 6,5 13,10 19,15 2,2 6,5 9,5 5,0 11,-5 15,-8 15,-10 26,-26 29,-44 6,-37 -12,-73 -32,-103 -8,-11 -16,-24 -28,-32 -2,7 -4,13 -7,19 -15,-15 -27,-33 -44,-45 0,6 2,11 -1,17 -1,2 -3,5 -5,5 -4,0 -8,-7 -11,-10 -8,-8 -17,-17 -28,-21 1,5 5,20 -5,21 -4,0 -11,-7 -14,-10 -10,-7 -22,-17 -34,-18 z"/>
@@ -26,4 +27,28 @@
 		<path id="purple-3" fill="#954196" d="m 947,968 c -48,52 -88,122 -77,192 26,80 160,0 190,-40 20,-20 30,-40 30,-60 -50,-10 -106,-40 -143,-92 z"/>
 	</g>
 	<path id="blue" fill="#199fda" d="m 593,1210 c -13,10 -31,10 -39,30 -7,70 124,100 162,90 36,0 140,-40 130,-90 -2,-20 -17,-20 -29,-30 -66,-30 -160,-30 -224,0 z"/>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <dc:title>The Raspple</dc:title>
+        <dc:date>October 4, 2016</dc:date>
+        <dc:creator>
+					<cc:Agent>
+						<dc:title>T. Joseph Carter</dc:title>
+					</cc:Agent>
+				</dc:creator>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
 </svg>
