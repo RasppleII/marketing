@@ -19,13 +19,16 @@
 	L 30,118
 	a 18,18 0,0 1 -7.559,-34.332
 	z"/>
-	<text style="font-family:'Bitstream Vera Sans Mono';font-size:11px;" fill="#5f5">
-	<tspan x="0" y="58">-rw-rw-rw- 1 root root</tspan>
-	<tspan x="0" y="71">-rw-rw-rw- 1 root root</tspan>
-	<tspan x="0" y="84">-rw-rw-rw- 1 root root</tspan>
-	<tspan x="0" y="97">-rw-rw-rw- 1 root root</tspan>
-	<tspan x="0" y="110">pi@a2cloud:~$ █</tspan>
-	</text>
+	<g fill="#5f5">
+		<path id="text-@" d="m26,98 h6 v2 h2 v6 h-2 v2 h-4 v-6 h2 v2 h2 v-4 h-6 v10 h8 v2 h-8 v-2 h-2 v-10 h2 z"/>
+		<path id="text-a" d="m40,102 h6 v2 h2 v8 h-8 v-2 h6 v-2 h-6 v2 h-2 v-2 h2 v-2 h6 v-2 h-6 z"/>
+		<path id="text-2" d="m54,98 h6 v2 h2 v4 h-2 v2 h-4 v2 h-2 v2 h8 v2 h-10 v-4 h2 v-2 h2 v-2 h4 v-4 h-6 v2 h-2 v-2 h2 z"/>
+		<path id="text-c" d="m68,102 h8 v2 h-8 v6 h8 v2 h-8 v-2 h-2 v-6 h2 z"/>
+		<path id="text-l" d="m82,98 h4 v12 h2 v2 h-6 v-2 h2 v-10 h-2 z"/>
+		<path id="text-o" d="m96,102 h6 v2 h2 v6 h-2 v2 h-6 v-2 h-2 v-6 h2 v6 h6 v-6 h-6 z"/>
+		<path id="text-u" d="m108,102 h2 v8 h4 v-2 h2 v-6 h2 v10 h-2 v-2 h-2 v2 h-4 v-2 h-2 z"/>
+		<path id="text-d" d="m130,98 h2 v14 h-8 v-2 h-2 v-6 h2 v-2 h6 v2 h-6 v6 h6 z"/>
+	</g>
 	<metadata>
 		<rdf:RDF>
 			<cc:Work>
