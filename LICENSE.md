@@ -9,5 +9,5 @@ creators unless otherwise indicated.
 
 [The Raspple]: rasppleii.svg
 [Your Files Are Served]: a2server.svg
-[cc-by-sa 4.0]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 
